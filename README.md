@@ -6,7 +6,7 @@ During the last fifty years, we have seen the gradual increase in life expectanc
 
 Taking it in consideradion, we used Python, Bokeh charts and Jupyter tool to analyse this mass of data and get insights to answer questions such as:
 
-- There is a correlation between life expectancy and fertility?
+- Is there a correlation between life expectancy and fertility?
 - Which countries have more life expectancy?
 - Life expectancy mean less childs?
 
