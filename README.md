@@ -13,7 +13,6 @@ Taking it in consideradion, we used Python, Bokeh charts and Jupyter tool to ana
 ### Crew ###
 
 * Igor A. Brandão
-* Leandro Antonio F. da Silva
 
 ### How to use ###
 
